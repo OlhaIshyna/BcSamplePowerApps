@@ -15,7 +15,7 @@ Param(
 $ErrorActionPreference = "stop"
 Set-StrictMode -Version 2.0
 
-try {
+try1 {
 $webClient = New-Object System.Net.WebClient
 $webClient.CachePolicy = New-Object System.Net.Cache.RequestCachePolicy -argumentList ([System.Net.Cache.RequestCacheLevel]::NoCacheNoStore)
 $webClient.Encoding = [System.Text.Encoding]::UTF8

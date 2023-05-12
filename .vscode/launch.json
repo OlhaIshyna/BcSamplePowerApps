@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Your own server",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "server": "https://businesscentral.dynamics.com/e0ac6da5-2348-410c-a4d8-6a6b664a25a8/Staging",
+            "serverInstance": "BC",
+            "authentication": "UserPassword",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": "All",
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "tenant": "default",
+            "usePublicURLFromServer": true
+        }
+    ]
+}

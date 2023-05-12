@@ -3,41 +3,13 @@
   "templateUrl": "https://github.com/businesscentraldemos/AL-Go-PTE@PowerPlatform",
   "powerPlatformSolutionFolder": "BcSampleAppsSolution",
   "environments": [
-    "andersg (Production)",
-    "Staging",
-    "UX (Production)",
-    "BLAZEJ (Production)",
-    "Directions (Production)",
-    "ASIA (Production)"
+    "Staging"
   ],
-  "DeployToAndersg": {
-    "environmentName": "Sandbox",
-    "companyId": "dc50d5e8-f9c9-ed11-94cc-000d3a220b2f",
-    "ppEnvironmentUrl": "https://orgc791aad2.crm.dynamics.com/"
-  },
+
   "DeployToStaging": {
-    "environmentName": "Sandbox",
-    "companyId": "dc50d5e8-f9c9-ed11-94cc-000d3a220b2f",
-    "ppEnvironmentUrl": "https://org835014c5.crm.dynamics.com/"
-  },
-  "DeployToUX": {
-    "environmentName": "Production",
-    "companyId": "a2db7307-078b-ed11-aad8-000d3a21edc2",
-    "ppEnvironmentUrl": "https://orgbcdd3464.crm.dynamics.com/"
-  },
-  "DeployToBLAZEJ": {
-    "environmentName": "SandboxCopilot22",
-    "companyId": "726a0ad6-0dc2-ed11-a385-000d3a269ff8",
-    "ppEnvironmentUrl": "https://orgb8099c47.crm.dynamics.com/"
-  },
-  "DeployToDirections": {
-    "environmentName": "Production",
-    "companyId": "9a7a387b-dfcd-ed11-94c8-000d3a2b981f",
-    "ppEnvironmentUrl": "https://org44d4fdae.crm.dynamics.com/"
-  },
-    "DeployToASIA": {
-    "environmentName": "DirAsia",
-    "companyId": "c599995e-f9c9-ed11-94c7-000d3abb1e46",
-    "ppEnvironmentUrl": "https://orge41646a8.crm.dynamics.com/"
+    "environmentName": "CRM872517",
+    "companyId": "2156036c-9963-ed59-a276-9e01a2e2c313"    ,
+    "ppEnvironmentUrl": "https://org9b5ae957.crm.dynamics.com/"
   }
+
 }

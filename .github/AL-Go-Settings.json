@@ -11,7 +11,7 @@
   "DeployToStaging": {
     "environmentName": "Staging",
     "companyId": "dc50d5e8-f9c9-ed11-94cc-000d3a220b2"    ,
-    "ppEnvironmentUrl": "https://org9b5ae957.crm.dynamics.com/",
+    "ppEnvironmentUrl": "https://org9b5ae957.crm.dynamics.com/"
   }
   
 

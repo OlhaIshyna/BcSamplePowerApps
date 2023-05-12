@@ -55,7 +55,7 @@ The script will also modify launch.json to have a Local Sandbox configuration po
 
 '@
 
-$settings = ReadSettings -baseFolder $baseFolder -project $project -userName $env:USERNAME
+$settings = ReadSettings -baseFolder $baseFolder -project $project -userName $env:USERNAME -
 
 Write-Host "Checking System Requirements"
 $dockerProcess = (Get-Process "dockerd" -ErrorAction Ignore)

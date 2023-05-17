@@ -1,6 +1,6 @@
 {
   "country": "us",
-  "appFolders": [],
+  "appFolders": ["AppCode"],
   "testFolders": [],
   "bcptTestFolders": [],
   "doNotPublishApps": true ,

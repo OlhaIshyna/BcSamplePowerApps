@@ -3,5 +3,6 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "doNotPublishApps": true
+  "doNotPublishApps": true ,
+  "repoVersion": "5.0"
 }
